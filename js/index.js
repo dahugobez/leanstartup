@@ -37,7 +37,7 @@ var Index = (function() {
   var inputTmpl = ['<li class="item-wrap">',
     '<div class="input-wrap">',
     '<div><input type="text" class="input-item" name="input-item" value="${name}" /></div>',
-    '<div><input type="button" class="submit" value="保存" /><em>或</em><input type="button" class="cancel" value="取消" /></div>',
+    '<div><input type="button" class="submit" value="Sauvegarder" /><em>ou</em><input type="button" class="cancel" value="Annuler" /></div>',
     '</div>',
     '</li>'].join('');
 
@@ -160,10 +160,10 @@ var Index = (function() {
     $('.help').click(function(event) {
       event.stopPropagation();
       $('<div></div>')
-        .html('正在建设中...')
+        .html('en construction...')
         .dialog({
           autoOpen: false,
-          title: '帮助'
+          title: 'Aide'
         }).dialog('open');
     })
   };
@@ -177,9 +177,9 @@ var Index = (function() {
       $('<div></div>').html(['<div>',
           '<textarea style="width:240px;height:90px;line-height:16px;"></textarea>',
         '</div>',
-        '<div><input type="button" value="提交" /></div>'].join('')).dialog({
+        '<div><input type="button" value="Ok" /></div>'].join('')).dialog({
           autoOpen: false,
-          title: '发表评论'
+          title: 'Commenter'
         }).dialog('open');
     })
   };
