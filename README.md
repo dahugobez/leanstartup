@@ -1,39 +1,60 @@
 #LeanStartup
 
-@TODO:Traduction française
+##@TODO:Traduction française
 
-##精益画布 前端交互Demo
+##Texte traduit
+2 - Problème 
+Les 3 (maximum) principaux 
+problèmes / besoins identifiés qui 
+sont à l’origine de votre idée 
+ 
+4 - Solution 
+Les 3 principales solutions que 
+votre idée apporte en réponse aux 
+problèmes / besoins identifiés. 
+ 
+3 - Proposition de valeur 
+unique 
+En quoi votre idée est efficace et 
+unique pour répondre aux besoins 
+du marché et qui justifie le fait que 
+votre offre devrait être préférée à 
+celle des concurrents 
+ 
+9 - Avantage compétitif net 
+Ce qui vous donne une longueur 
+d’avance évidente sur la 
+concurrence / un avantage qu’ils 
+ne pourront pas copier facilement 
+? 
+1 - Segments de clientèle 
+A quelle cible allez-vous vendre ? 
+Quels sont vos segments de 
+clientèle ? 
+ 
+8 - Indicateurs clés de 
+performance “Key Metrics” 
+Quels indicateurs clés allez-vous 
+surveiller en priorité pour vérifier la 
+santé et de la vigueur de votre 
+activité ? 
+ 
+5 - Canaux 
+Par quels canaux passeriez-vous 
+pour atteindre ces différents 
+segments et leur faire connaître 
+votre offre ? 
+ 
+7 - Structure des coûts 
+Quels sont les coûts (ponctuels et récurrents) liés au lancement et au fonctionnement de 
+votre activité ? 
+ 
+6 - Sources de revenus 
+D’où vient le « cash » ? Qui paie ? 
 
-* ###这是一个关于精益创业的思维画布Demo
 
-* ###实现用户的前基本交互功能 增、删、改内容
-
-* ###http://applesstt.github.com/leanstartup/
-
-##LeanStartup有哪些功能？
-
-* 鼠标滑过效果
-    * 模块变色、帮助按钮显示
-* 输入框
-    * 点击模块区域 显示输入框
-* 编辑内容
-    * 点击已输入的内容 可进行编辑
-* 删除
-    * 点击删除图标 删除一条内容
-* 帮助
-    * 点击帮助图标 弹出帮助浮层
-* 模块中数字大小可变
-    * 调整页面大小 数字的大小也跟随着变化
-* 高度、宽度自动伸缩
-    * 输入内容过多或调整页面大小时 高度宽度自动变化
-* 调整顺序
-    * 鼠标拖拽 调整内容的排序
-* 发表评论
-    * 弹出评论框
-
-##有问题反馈
-
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+#Sources:
 
 * 邮件(applesstt#gmail.com, 把#换成@)
-* QQ: 20146064
+* [CCI.fr E.Guide](http://www.cci.fr/c/document_library/get_file?uuid=642f631b-b461-4592-895a-6a9582be5640&groupId=10928)
+* Ash MAURYA
