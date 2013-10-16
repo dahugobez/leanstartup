@@ -1,5 +1,7 @@
 #LeanStartup
 
+Traduction française
+
 ##精益画布 前端交互Demo
 
 * ###这是一个关于精益创业的思维画布Demo
