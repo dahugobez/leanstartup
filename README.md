@@ -1,6 +1,8 @@
 #LeanStartup
 
-##@TODO:Traduction française
+###TODOs
+* traduire les commentaires
+* terminer le système de popup d'aide
 
 ##Texte traduit
 2 - Problème 
